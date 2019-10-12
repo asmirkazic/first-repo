@@ -1,2 +1,4 @@
 HELLO WOW I'M A FILE
 ANOTHER LINE
+
+This is the third line of the file.
